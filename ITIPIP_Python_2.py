@@ -1,4 +1,4 @@
-# The below information was coded with Caesar Cipher to avoid it being searchable in Google.
+# The below information was coded with Caesar Cipher to prevent it from being searchable in Google.
 # It can be deciphered using http://www.braingle.com/brainteasers/codes/caesar.php with letter shift 3.
 
 # "Jxhvv wkh qxpehu"
